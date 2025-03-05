@@ -1,3 +1,5 @@
+- Sobre mí:
+  
 Soy Ingeniero de Sistemas con más de 34 años de experiencia en el desarrollo de software para la industria del petróleo y gas, aplicando técnicas avanzadas en optimización matemática, estadística, simulación e inteligencia artificial.
 Mi experiencia profesional incluye una amplia gama de habilidades técnicas en diversas áreas de TI (Ing. Software, Consultor Senior TI, Líder de Desarrollo, Científico de Datos, Ing. de Soluciones, CTO, Líder en Optimización Matemática, Ingeniero I&D, Analista de Riesgo).
 
