@@ -1,4 +1,4 @@
-<h1 align="center"><b>Ing. Manuel Fritas </b></h1>
+<h1 align="center"><b>Ing. Manuel Freitas </b></h1>
 
 Sobre mí:
   
