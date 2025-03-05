@@ -10,5 +10,7 @@ Me describo como una persona con perfil técnico-científico, con gran interés 
 Actualmente, me dedico a investigar sobre los últimos avances en Inteligencia Artificial, con un enfoque específico en Agentes IA, LLM (Modelos de Lenguaje de gran tamaño) y sus aplicaciones prácticas en el entorno industrial y empresarial (automatización de procesos, problemas de optimización, etc.). Estas técnicas han demostrado tener un enorme potencial, redefiniendo lo que es posible lograr en términos de automatización y asistencia inteligente, abriendo nuevas fronteras en la interacción entre humanos y máquinas.
 
 Lenguajes de Programación: 
-
 Python, R, Julia, JavaScript, Java, C++, C#, .Net, Excel VBA, SQL.
+
+Blog: 
+https://blog-para-programadores.blogspot.com/
