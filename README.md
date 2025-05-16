@@ -15,3 +15,6 @@ Python, R, Julia, JavaScript, Java, C++, C#, .Net, Excel VBA, SQL.
 
 Blog: 
 https://blog-para-programadores.blogspot.com/
+
+LinkedIn:
+https://www.linkedin.com/in/freitasmanuel/
