@@ -10,14 +10,6 @@ Me describo como una persona con perfil técnico-científico, con gran interés 
 
 Actualmente, me dedico a investigar sobre los últimos avances en Inteligencia Artificial, con un enfoque específico en Agentes IA, Modelos de Lenguaje de gran tamaño (LLM) y sus aplicaciones prácticas en el entorno industrial y empresarial (automatización y optimización de procesos).
 
-Estoy en búsqueda de nuevas oportunidades laborales, donde pueda:
-- Liderar un equipo de TI para fomentar la colaboración (sinergia), promover la innovación y mantener una comunicación clara de los objetivos a cumplir, que permita desarrollar sus habilidades y alcanzar su máximo potencial. Guiar al equipo en un entorno dinámico y en constante evolución, donde la resolución de problemas y la adaptabilidad sean esenciales ante los nuevos retos y cambios tecnológicos.
-- Participar en proyectos que proporcionen resultados de alta calidad.
-- Desarrollar soluciones innovadoras que aporten un mayor valor estratégico y operativo.
-- Aportar mis conocimientos para optimizar procesos y estrategias empresariales.
-- Colaborar en proyectos de investigación.
-- Un rol que me ofrezca oportunidades de crecimiento y retos acordes con mi trayectoria profesional.
-
 Lenguajes de Programación:
 Python, R, Julia, JavaScript, Java, C++, C#, .Net, Excel VBA, SQL.
 
