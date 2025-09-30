@@ -1,5 +1,5 @@
 <h1 align="center">Manuel Freitas</h1>
-<h2 align="center">Consultor Senior TI/Ing. Sistemas</h2>
+<align="center">Consultor Senior TI/Ing. Sistemas>
 
 Sobre mí:
   
