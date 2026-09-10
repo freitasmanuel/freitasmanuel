@@ -11,7 +11,9 @@ Me motiva colaborar con equipos técnicos para resolver problemas complejos, med
 
 Mi trayectoria profesional abarca un conjunto diverso de competencias técnicas, aplicadas a múltiples áreas de las Tecnologías de la Información: Ing. Software, Consultor Senior TI, Líder Técnico de Desarrollo, Científico de Datos, Ing. de Soluciones, Director de Sistemas (CTO), Analista de Riesgo y Líder en Optimización Matemática.
 
-Actualmente sigo una línea de investigación centrada en integrar técnicas de Inteligencia Artificial con Metaheurísticas.
+Mi enfoque actual se orienta a la Integración de Machine Learning con Optimización Matemática, con el propósito de implementar una arquitectura computacional que fortalezca el proceso de toma de decisiones estratégicas a largo plazo. 
+
+Acelerar el desarrollo y despliegue de soluciones basadas en IA, Ciencia de Datos y Machine Learning.
 
 Lenguajes de Programación:
 Python, R, Julia, JavaScript, Java, C++, C#, .Net, Excel VBA, SQL.
