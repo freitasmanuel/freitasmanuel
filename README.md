@@ -5,15 +5,13 @@ Sobre mí:
   
 Ingeniero de Sistemas con más de 30 años de experiencia en el desarrollo de software para la industria del petróleo y gas, aplicando técnicas avanzadas en optimización matemática, estadística, simulación e inteligencia artificial.
 
-Me describo como una persona con perfil técnico-científico, con gran interés en la investigación y en la actualización constante, impulsando la innovación en cada proyecto que participo. Ayudo a las organizaciones a pasar de la experimentación a la implementación, con estrategias/soluciones que generan resultados tempranos y tomar decisiones más inteligentes basadas en datos. 
+Mi trayectoria profesional abarca múltiples roles: Ing. Software, Científico de Datos (AI/ML), Analista de Confiabilidad y Riesgos (QRM), Líder Técnico de Desarrollo, Director de Sistemas (CTO), Líder en Optimización Matemática (OR), Tutor Profesional y Consultor Senior TI.
 
-Me motiva colaborar con equipos técnicos para resolver problemas complejos, mediante cómputo avanzado e ingeniería de software (Complex Problem Solver). Poseo amplia experiencia en el desarrollo de soluciones prácticas que integran precisión matemática y eficiencia computacional.
+Me describo como una persona con perfil técnico-científico, con sólida experiencia en optimización matemática, analítica predictiva y prescriptiva, simulación y resolución de problemas basado en el análisis de datos a gran escala (estructurados y no estructurados), para identificar ineficiencias operativas, oportunidades de reducción de costos y mejoras de procesos.
 
-Mi trayectoria profesional abarca un conjunto diverso de competencias técnicas, aplicadas a múltiples áreas de las Tecnologías de la Información: Ing. Software, Consultor Senior TI, Líder Técnico de Desarrollo, Científico de Datos, Ing. de Soluciones, Director de Sistemas (CTO), Analista de Riesgo y Líder en Optimización Matemática.
+Colaborar con equipos multifuncionales y expertos, para traducir los requisitos comerciales en modelos analíticos y soluciones de optimización.
 
-Mi enfoque actual se orienta a la Integración de Machine Learning con Optimización Matemática, con el propósito de implementar una arquitectura computacional que fortalezca el proceso de toma de decisiones estratégicas a largo plazo. 
-
-Acelerar el desarrollo y despliegue de soluciones basadas en IA, Ciencia de Datos y Machine Learning.
+Actualmente estoy enfocado en la integración de modelos de AI/ML con Optimización Matemática avanzada para diseñar, desarrollar e implementar soluciones analíticas que impulsen la eficiencia empresarial y respalden la toma de decisiones estratégicas y operativas. Soluciones escalables, confiables y orientadas al negocio.
 
 Lenguajes de Programación:
 Python, R, Julia, JavaScript, Java, C++, C#, .Net, Excel VBA, SQL.
